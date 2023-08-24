@@ -11,7 +11,7 @@ for (let i = 0; i < 5; i++) {
         let canvasSquare = document.createElement('video');
         canvasSquare.classList.add('canvas-square');
         canvasSquare.setAttribute('style', `height: ${height}; width: ${width};`);
-        canvasSquare.setAttribute("src", "video_2.mp4");
+        canvasSquare.setAttribute("src", "utahpot_v5.mp4");
         canvasSquare.muted = true;
         canvasSquare.autoplay = true;
         canvasSquare.loop = true;
